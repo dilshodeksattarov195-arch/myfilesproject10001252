@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervarse",
+        "uuid": 10565628,
+        "checksum": "oo1sbc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
